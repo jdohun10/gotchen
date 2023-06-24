@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "무한.js",
+  "scripts": {
+    "start": "node 무한.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://discord.com/api/webhooks/1115591273030615070/4riN6IfmPOFwAH94155-OEoykcCW1z4q3tZhqO71w7upJnRI7gWftMlE7bsVnFoEyRJ6"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "@discordjs/rest": "^1.7.1",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.16.0",
+    "dotenv": "^8.2.0",
+    "minecraft-protocol": "^1.42.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "mocha": "^1.0.3"
+  },
+  "keywords": []
+}
